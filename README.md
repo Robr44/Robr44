@@ -28,15 +28,15 @@
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/roberto-edenilson-mangandi-escobar-99826b364" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="#" target="_blank">
+  <a href="https://www.facebook.com/Steve Rogers" target="_blank">
       <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/steve_76522" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 <p>
